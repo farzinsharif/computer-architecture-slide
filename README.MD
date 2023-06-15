@@ -14,6 +14,7 @@ here are some picture of how the slides are look like.
 - Chapter6.MIPS Instruction Execution
 - Chpater6.1.Pipelined CPU
 - Chpater7.Exception And Interrupts
+- Chpater8.Timer And Counter 
 - [LICENSE](#LICENSE)
 
 ## Sample of Power Point
