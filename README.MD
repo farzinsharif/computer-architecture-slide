@@ -32,5 +32,5 @@ here are some picture of how the slides are look like.
 
 ## License
 
-Ponisha-position-finder is released under the terms of the MIT license. See [LICENSE](LICENSE.md) for more
+Computer-architecture-slide is released under the terms of the MIT license. See [LICENSE](LICENSE.md) for more
 information or see https://opensource.org/licenses/MIT.
