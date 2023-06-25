@@ -15,6 +15,9 @@ here are some picture of how the slides are look like.
 - Chpater6.1.Pipelined CPU
 - Chpater7.Exception And Interrupts
 - Chpater8.Timer And Counter 
+- Chpater9.Serial communication 
+- Chpater10.LCD & Keyboard Interfacing
+- Chpater11.ADC & DAC
 - [LICENSE](#LICENSE)
 
 ## Sample of Power Point
