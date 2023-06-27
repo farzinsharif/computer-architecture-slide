@@ -2,8 +2,7 @@
 
 
 this power point is in English and also translated to Farsi at the same time.
-so feel free to use it to prepare for your exam.presention etc ...
-here are some picture of how the slides are look like.
+
 
 # Table of content
 - Chapter1.intro
@@ -33,7 +32,3 @@ here are some picture of how the slides are look like.
 <img src="./Image/6.1-2.png" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 <img src="./Image/6.1-3.png" width="500" style="display: block; margin-left: auto; margin-right: auto;">
 
-## License
-
-Computer-architecture-slide is released under the terms of the MIT license. See [LICENSE](LICENSE.md) for more
-information or see https://opensource.org/licenses/MIT.
