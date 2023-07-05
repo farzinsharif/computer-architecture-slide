@@ -17,6 +17,7 @@ this power point is in English and also translated to Farsi at the same time.
 - Chpater9.Serial communication 
 - Chpater10.LCD & Keyboard Interfacing
 - Chpater11.ADC & DAC
+- Chapter12.Microcontroller (Optional)
 - [LICENSE](#LICENSE)
 
 ## Sample of Power Point
